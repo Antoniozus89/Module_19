@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="010e016f-20cc-4b1d-bba1-eeb719be0497" name="Changes" comment="A">
+      <change afterPath="$PROJECT_DIR$/Module19/Module19/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/Module19/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/Module19/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/Module19/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/task1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/task1/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/task1/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/task1/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/task1/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/task1/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/task1/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module19/task1/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module19/Module19/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,15 +42,19 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2nNVTuvSeHsxmCx7pCyOIT2ry68" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -77,10 +97,19 @@
       <option name="project" value="LOCAL" />
       <updated>1728814012355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="A">
+      <option name="closed" value="true" />
+      <created>1728814330268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728814330268</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="A" />
     <option name="LAST_COMMIT_MESSAGE" value="A" />
   </component>
